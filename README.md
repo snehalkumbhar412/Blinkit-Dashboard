@@ -1,9 +1,9 @@
-Blinkit Sales Analytics Dashboard
-Short Description / Purpose
+<u>1. Blinkit Sales Analytics Dashboard</u>
+<u>2. Short Description / Purpose</u>
 
 An interactive Power BI dashboard designed to analyze Blinkit’s sales performance across product categories, outlet types, and regions. It helps uncover revenue trends, pricing patterns, and customer preferences to support data-driven business decisions.
 
-Tech Stack
+<u>3. Tech Stack</u>
 
 The dashboard was built using the following tools and technologies:
 
@@ -17,10 +17,11 @@ The dashboard was built using the following tools and technologies:
 
 📁 File Format – .pbix for report development, .png for dashboard preview images.
 
-Data Source
+<u>4. Data Source</u>
 
 Source: Blinkit Sales Dataset (Kaggle)
-The dataset contains detailed sales and product-level data covering:
+
+The dataset contains detailed sales and product-level data, including:
 
 Item Identifier, Item Weight, Item Type
 
@@ -28,8 +29,8 @@ Outlet Location Type, Outlet Size, Outlet Type
 
 Item MRP, Item Outlet Sales
 
-Features / Highlights
-Business Problem
+<u>5. Features / Highlights</u>
+5.1 Business Problem
 
 Blinkit, a leading instant delivery platform in India, generates large volumes of sales data daily. Understanding top-performing products, outlet impact, and revenue-driving categories requires analytical insights.
 
@@ -43,7 +44,7 @@ What is the trend of average MRP and item visibility across outlets?
 
 Which cities or regions perform best?
 
-Walkthrough of Key Visuals
+5.2 Walkthrough of Key Visuals
 
 Goal: Build an interactive Power BI dashboard to provide an overview of Blinkit’s sales, identify top outlets and product categories, track pricing trends, and support data-driven decisions.
 
@@ -73,7 +74,7 @@ Average MRP by Item Type – Line Chart
 
 Geographical Sales Map – City-wise performance
 
-Conclusion
+<u>6. Conclusion</u>
 
 Tier 3 locations lead sales ($472K), showing strong demand.
 
