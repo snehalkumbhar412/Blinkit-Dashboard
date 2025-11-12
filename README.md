@@ -78,3 +78,6 @@ Blinkit, a leading instant delivery platform in India, generates large volumes o
 * Sales peaked in 2018 ($205K) and slightly declined afterward.
 * Medium-sized outlets perform steadily.
 * Growth opportunities: focus on Tier 3 markets, expand top categories, and optimize pricing strategies.
+## <u>**Screenshot/Demo**</u>
+
+![Blinkit Dashboard Screenshot](https://github.com/snehalkumbhar412/Blinkit-Dashboard/raw/main/Blinkit_Sales_Analyis.png)
